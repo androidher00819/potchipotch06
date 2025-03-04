@@ -8,7 +8,7 @@ playPauseBtn.addEventListener("click", togglePlayPause);
 const tracks = [
   {
     src: "assets/songs/Ariana Grande - imperfect for you (live version).mp3",
-    albumArt: "/assets/img/img_9003.jpg",
+    albumArt: "/IMG_9003.JPG",
     trackTitle: "Imperfect for You",
     bandName: "Ariana Grande",
     duration: "3:03", // Format: "minutes:seconds"
